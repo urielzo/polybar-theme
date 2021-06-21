@@ -53,3 +53,7 @@ polybar theme for i3 &amp; qtile
 - **Notification Daemon** dunst
 - **Music Daemon** mpd
 - **Mpd Controller** mpc
+
+- ** Special Thanks
+- [[https://github.com/stobenski/pro][stobenski's pro]]
+- [[https://https://github.com/adi1090x/polybar-themes][adi1090x's polybar-themes]]
