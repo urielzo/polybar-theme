@@ -54,6 +54,8 @@ polybar theme for i3 &amp; qtile
 - **Music Daemon** mpd
 - **Mpd Controller** mpc
 
+
 - ** Special Thanks
-- [[https://github.com/stobenski/pro][stobenski pro]]
-- [[https://https://github.com/adi1090x/polybar-themes][adi1090x polybar-themes]]
+- ** stobenski: [awesome pro themes](https://github.com/stobenski/pro)
+- ** adi1090x: [polybar themes](https://github.com/adi1090x/polybar-themes)
+
