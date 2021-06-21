@@ -55,5 +55,5 @@ polybar theme for i3 &amp; qtile
 - **Mpd Controller** mpc
 
 - ** Special Thanks
-- [[https://github.com/stobenski/pro][stobenski's pro]]
-- [[https://https://github.com/adi1090x/polybar-themes][adi1090x's polybar-themes]]
+- [[https://github.com/stobenski/pro][stobenski pro]]
+- [[https://https://github.com/adi1090x/polybar-themes][adi1090x polybar-themes]]
