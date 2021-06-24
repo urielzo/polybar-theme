@@ -40,7 +40,7 @@ elif  [[ "$1" = "--pro_medium_light" ]]; then
 
 elif  [[ "$1" = "--pro_blue_gray" ]]; then
 	panel="pro_blue_gray"
-	bg="days-gone.png"
+	bg="cat.jpg"
 	change_panel
 	
 else
